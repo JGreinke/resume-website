@@ -1,0 +1,21 @@
+.navbar{
+    background-color: #0A100D;
+}
+ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+li{
+   color: #F7EDDB;
+   text-transform: uppercase;
+   text-align: center;
+}
+.logo-image{
+    max-height: 50px;
+}
+.navbar-link{
+    padding-top: 10%;
+    text-decoration: none;
+}
